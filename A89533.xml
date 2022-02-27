@@ -1,0 +1,1601 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Advice concerning bills of exchange. By John Marius, publick notary.</title>
+            <author>Marius, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 79 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89533</idno>
+            <idno type="STC">Wing M603</idno>
+            <idno type="STC">Thomason E1397_2</idno>
+            <idno type="STC">ESTC R209468</idno>
+            <idno type="EEBO-CITATION">99868349</idno>
+            <idno type="PROQUEST">99868349</idno>
+            <idno type="VID">169911</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89533)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169911)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 181:E1397[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Advice concerning bills of exchange. By John Marius, publick notary.</title>
+                  <author>Marius, John.</author>
+               </titleStmt>
+               <extent>[10], 48, 45-80 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I.G. and are to be sold by Nich. Bourne, at the south-entrance into the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text is continuous despite pagination.</note>
+                  <note>Running title reads: Advice on bills of exchange.</note>
+                  <note>Annotation on Thomason copy: "7ber. [i.e. September] 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bills of exchange --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169911:1" rendition="simple:additions"/>
+            <p>ADVICE <hi>CONCERNING</hi> BILLS OF EXCHANGE.</p>
+            <p>BY JOHN MARIUS, <hi>Publick Notary.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>I. G.</hi> and are to be ſold by <hi>Nich. Bourne,</hi> at the South-entrance into the Royall Exchange, 1651.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169911:2"/>
+            <pb facs="tcp:169911:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N above tvventie years pra<g ref="char:EOLhyphen"/>ctice as a <hi>Notary Publick,</hi> for Outland and Inland affaires, which I doe yet Exer<g ref="char:EOLhyphen"/>ciſe at the Royall <hi>Exchange</hi> in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> I have had divers Caſes propoun<g ref="char:EOLhyphen"/>ded unto mee by di<g ref="char:EOLhyphen"/>vers
+<pb facs="tcp:169911:3"/>and ſundry Mer<g ref="char:EOLhyphen"/>chants, and others whom I have from time to time Reſol<g ref="char:EOLhyphen"/>ved concerning Bills of Exchange, And now that I might he helpfull in ſome mea<g ref="char:EOLhyphen"/>ſure unto others, who doe not ſo well know the Cuſtome, and that the ſame may be more gene<g ref="char:EOLhyphen"/>rally knowne for their
+<pb facs="tcp:169911:3"/>Direction, chiefly I have taken this taske in hand; And have here briefly given my Opinion and Ad<g ref="char:EOLhyphen"/>vice in the ſeverall Caſes hereafter men<g ref="char:EOLhyphen"/>tioned, Directing the moſt uſuall and ſafeſt courſe to be followed in matters of Bills of Exchange, ſome Cu<g ref="char:EOLhyphen"/>ſtomes of Merchants concerning the ſame,
+<pb facs="tcp:169911:4"/>How to know when any Bills of Exchange will fall due, What the Exchange of Mo<g ref="char:EOLhyphen"/>ney will amount un<g ref="char:EOLhyphen"/>to in Sterling Mo<g ref="char:EOLhyphen"/>ney, and ſome ſhort Directions to keepe true Accounts, A pub<g ref="char:EOLhyphen"/>lique benefit by the knowledge herof being deſired by</p>
+            <closer>
+               <signed>John Marius.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:169911:4"/>
+            <head>The CONTENTS of this Book.</head>
+            <list>
+               <item>EXchange what it is, <hi>Page 1</hi>
+               </item>
+               <item>Pair, or Money for Money, <hi>ibid.</hi>
+               </item>
+               <item>How the Exchange is valued, <hi>p. 2</hi>
+               </item>
+               <item>Hamburrough stile, <hi>p. 3</hi>
+               </item>
+               <item>Venice and Hamburrough <g ref="char:V">Ʋ</g>ſan<g ref="char:EOLhyphen"/>ces, <hi>p. 4</hi>
+               </item>
+               <item>No three Days for Acceptance. <hi>ibid.</hi>
+               </item>
+               <item>
+                  <hi>24.</hi> Houres for acceptance, <hi>p. 5</hi>
+               </item>
+               <item>Bill drawn on two perſons, <hi>p. 9</hi>
+               </item>
+               <item>Verball acceptance, <hi>p. 10</hi>
+               </item>
+               <item>Accept for part, <hi>p. 12</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:169911:5"/>Note on your Bill the time when it will fall due, <hi>p. 14</hi>
+               </item>
+               <item>Keepe or returne Bills accepted, <hi>p. 15</hi>
+               </item>
+               <item>The Deliverer is Maſter, <hi>p. 16</hi>
+               </item>
+               <item>
+                  <g ref="char:V">Ʋ</g>ſances, <hi>p. 19</hi>
+               </item>
+               <item>Dayes ſight, <hi>p. 21</hi>
+               </item>
+               <item>Accepted Bill loſt, <hi>p. 22</hi>
+               </item>
+               <item>No revoking acceptance, <hi>p. 24</hi>
+               </item>
+               <item>Acceptance for longer Time, <hi>p. 25</hi>
+               </item>
+               <item>Receive part, <hi>p. 28</hi>
+               </item>
+               <item>Bill accepted by an other Man, <hi>p. 29</hi>
+               </item>
+               <item>How to reckon the Time, <hi>p. 31</hi>
+               </item>
+               <item>Halfe <g ref="char:V">Ʋ</g>ſance, <hi>p. 35</hi>
+               </item>
+               <item>Three Days after due, <hi>p. 37</hi>
+               </item>
+               <item>Proteſt muſt be made though the three Dayes are expired, <hi>p. 40</hi>
+               </item>
+               <item>Bill payable at a prefixt Day, <hi>p. 43</hi>
+               </item>
+               <item>Acceptance by Wife, or Servvant, <hi>p. 47</hi>
+               </item>
+               <item>A Bill drawn on one place, and pay<g ref="char:EOLhyphen"/>able
+<pb facs="tcp:169911:5"/>at an other, <hi>p. 48</hi>
+               </item>
+               <item>The Taker bound to the Deliverer, and the Acceptor bound to the party to whom payable, <hi>p. 46</hi>
+               </item>
+               <item>Better Security, <hi>p. 48</hi>
+               </item>
+               <item>Proteſt in the Day-time, <hi>p. 49</hi>
+               </item>
+               <item>Proteſt returned, <hi>ibid.</hi>
+               </item>
+               <item>Bill of Exchange lost, left to be ac<g ref="char:EOLhyphen"/>cepted, <hi>p. 51</hi>
+               </item>
+               <item>Bill indorſed in blanke, <hi>p. 53</hi>
+               </item>
+               <item>Accept for Account of Drawer, <hi>p. 55</hi>
+               </item>
+               <item>Bill paid upon Proteſt, <hi>p. 57</hi>
+               </item>
+               <item>Put Bill in Letter Caſe, or Al<g ref="char:EOLhyphen"/>manack. <hi>p. 58</hi>
+               </item>
+               <item>Bill muſt not be paid before due, <hi>p. 59</hi>
+               </item>
+               <item>Second Bill with an Aſsignment, <hi>p. 62</hi>
+               </item>
+               <item>Party dead which accepted, <hi>p. 64</hi>
+               </item>
+               <item>Party dead to whom payable, <hi>p. 65</hi>
+               </item>
+               <item>Bill without an aſsignment, <hi>p. 66</hi>
+               </item>
+               <item>No ſuch Man to be found, <hi>p. 67</hi>
+               </item>
+               <item>Nobody at home, <hi>ibid.</hi>
+               </item>
+               <item>No avoyding a Protest, <hi>p. 68</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:169911:6"/>How to bring French Crownes into Sterling Money, <hi>p. 69</hi>
+               </item>
+               <item>Short Inſtructions how to keepe Merchants Bookes of Ac<g ref="char:EOLhyphen"/>compt after the Italian manner, <hi>p. 72</hi>
+               </item>
+               <item>An Almanack, or Table to know the juſt date of Bills of Exchange from <hi>New Stile,</hi> to <hi>Old Stile</hi> for ever, <hi>p. 76</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:169911:6"/>
+            <head>Advice on Bills of Exchange.</head>
+            <p>
+               <seg rend="decorInit">E</seg>Echange is no<g ref="char:EOLhyphen"/>thing elſe, but to give, or take up Money in one town, to have again, or to reſtore the value thereof in another town.</p>
+            <div type="part">
+               <head>Pair, or Money for Money.</head>
+               <p>
+                  <hi>PAir</hi> (as the <hi>French</hi> call it) is to equalize the Mo<g ref="char:EOLhyphen"/>ney of Exchange from one place to another, according
+<pb n="2" facs="tcp:169911:7"/>whereunto is found out the profit and loſſe which is made in the parcels drawne or remitted: And it is like<g ref="char:EOLhyphen"/>wiſe termed delivering Mo<g ref="char:EOLhyphen"/>ney <hi>Au pair,</hi> when there is re<g ref="char:EOLhyphen"/>ceived in one towne juſt as much money as was delive<g ref="char:EOLhyphen"/>red by Exchange in another town, which is done by the loſſe of time.</p>
+            </div>
+            <div type="part">
+               <head>How the Exchange is valued.</head>
+               <p>THe price of Exchange from <hi>London,</hi> for <hi>An<g ref="char:EOLhyphen"/>twerpe, Amſterdam, Mid<g ref="char:EOLhyphen"/>delbrough, Hamburrough, Lile</hi> and <hi>Rotterdam,</hi> is uſually accounted or valued on the pound Starling; the Exchange
+<pb n="3" facs="tcp:169911:7"/>from <hi>London</hi> for <hi>Paris</hi> and <hi>Rouen</hi> is valued on the French Crown; the Exchange from <hi>London</hi> for <hi>Venice</hi> is valued on the Ducat, And the Ex<g ref="char:EOLhyphen"/>change from <hi>London</hi> for <hi>Li<g ref="char:EOLhyphen"/>gorne</hi> is valued on the Doller or piece of Eight.</p>
+            </div>
+            <div type="part">
+               <head>Hamburrough stile.</head>
+               <p>NOte that in <hi>Hambur<g ref="char:EOLhyphen"/>rough</hi> they doe write the ſame ſtile with us here in <hi>England,</hi> namely old ſtile: but in all other parts beyond the Seas, generally they do write new ſtile, which is ten days before us.</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:169911:8"/>
+               <head>Venice and Hamburrough Uſances.</head>
+               <p>NOte alſo that Uſance from <hi>Venice</hi> to <hi>London,</hi> is uſually three moneths from the date of the Bill of Ex<g ref="char:EOLhyphen"/>change, And the price cur<g ref="char:EOLhyphen"/>rant from <hi>London</hi> to <hi>Ham<g ref="char:EOLhyphen"/>burrough</hi> is uſually valued at double Uſance, or two mo<g ref="char:EOLhyphen"/>neths after date.</p>
+            </div>
+            <div type="part">
+               <head>No three Dayes for ac<g ref="char:EOLhyphen"/>ceptance.</head>
+               <p>WHen any Bill of Ex<g ref="char:EOLhyphen"/>change is ſent unto you from beyond the Seas, to cauſe to be accepted, I would adviſe you to preſent
+<pb n="5" facs="tcp:169911:8"/>the Bill as ſoon as you can to the party to whom it is directed, and requeſt him to accept the ſame; if he refuſe to do it, you may preſently cauſe a Proteſt to be made for non-acceptance: for there is no three days allowed (by cuſtome of Marchants in <hi>London</hi>) for acceptance, but only at time of pay<g ref="char:EOLhyphen"/>ment.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>24.</hi> Houres for acceptance.</head>
+               <p>BUt if the party to whom the Bill of Exchange is directed, be a Marchant well known unto you, and that he ſhall deſire time to conſider on it, and ſo ſhall deſire you to leave the Bill of Exchange
+<pb n="6" facs="tcp:169911:9"/>with him, and to come to him the next day, (provided the Poſt do not go away in the interim) and that then he will give you an anſwer, herein he doth demand no<g ref="char:EOLhyphen"/>thing of you but what is u<g ref="char:EOLhyphen"/>ſually allowed: for accord<g ref="char:EOLhyphen"/>ing to cuſtome of Merchants he may have foure and twen<g ref="char:EOLhyphen"/>ty houres to conſider whe<g ref="char:EOLhyphen"/>ther he wil accept of your Bill or not; But <hi>that</hi> time being expired, you may de<g ref="char:EOLhyphen"/>mand of him your Bill of Exchange which you left with him to be accepted if ſo he pleaſed. If he then ſay <hi>that hee hath not yet ac<g ref="char:EOLhyphen"/>cepted it, and that he would deſire you to call ſome other time</hi> (the foure and twenty
+<pb n="7" facs="tcp:169911:9"/>houres being expired) it is at your choyce to ſtay any longer or not; And you may then requeſt a Notary to go and demand the Bill of Exchange of him, accep<g ref="char:EOLhyphen"/>ted or not accepted, and in default of delivery thereof, you may cauſe Proteſt to be made in due forme.</p>
+               <p>But though this may be lawfully don, yet notwith<g ref="char:EOLhyphen"/>ſtanding amongſt Merchants which do know one another, they do not uſually proceed ſo ſtrictly, but do leave their Bills with the parties to whom they are directed, (to be accepted) ſometimes two or three days, if it be not to their prejudice, as namely if the Poſt do not depart in the
+<pb n="8" facs="tcp:169911:10"/>interim; but if the poſt is to depart within the two or three days, then it is a very reaſonable thing, (and which men that know the cuſtome will not omit) to demand their Bill, accepted or not accepted, that ſo they may give advice thereof by the firſt Poſt (after the receit of their Letters,) unto their friend beyond the Seas, who ſent the Bill, or delivered the value thereof: for it is to be noted by the way, that advice of the receit of Bills of Exchange, and of the ac<g ref="char:EOLhyphen"/>ceptance and payment there<g ref="char:EOLhyphen"/>of, ought to be given by the firſt Poſt, that thereby the deliverer may know the better how to govern himſelf.</p>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:169911:10"/>
+               <head>Bill drawn on two perſons.</head>
+               <p>IF any Bill of Exchange ſhall come directed unto two or more perſons, in theſe terms, to <hi>A.</hi> and <hi>B.</hi> Mer<g ref="char:EOLhyphen"/>chants in <hi>London,</hi> both <hi>A.</hi> and <hi>B.</hi> alſo ought to accept the ſame, or elſe if but one of them do accept it, and the other will not, that Bill may be proteſted for want of due acceptance.</p>
+               <p>But if the bill come direct<g ref="char:EOLhyphen"/>ed thus, to <hi>A.</hi> and <hi>B.</hi> or to either of them; Or thus, to <hi>A.</hi> or in his abſence to <hi>B.</hi> In ſuch caſe the Bill being accepted by <hi>A.</hi> or by <hi>B.</hi> namely by but one of them, it is ſufficient, and may not
+<pb n="10" facs="tcp:169911:11"/>be Proteſted for any want of acceptance, in regard it is accepted according to the tenour of the bill.</p>
+            </div>
+            <div type="part">
+               <head>Verball acceptance.</head>
+               <p>IF a Bill of Exchange (be<g ref="char:EOLhyphen"/>ing preſented to be accep<g ref="char:EOLhyphen"/>ted) to the party to whom it is directed, And he give you an anſwer thus, <hi>Leave your Bill with me and I will accept it,</hi> or thus, <hi>call for it to morrow and you ſhall have it accepted,</hi> or ſuch like words; Such an anſwer is bynding, and amongſt Merchants is taken for an acceptance of the Bill; And if afterwards, he to whom it is directed ſhall refuſe to
+<pb n="11" facs="tcp:169911:11"/>ſet his Name to the Bill, and write under it <hi>accepted by mee R.</hi> as is uſuall; The party to whom it is payable may content himſelf with ſuch an acceptance if he have ſufficient witnes thereof,) untill the time of payment: And then if payment be not made by the party ſo ac<g ref="char:EOLhyphen"/>cepting it, the party to whom it is payable hath his courſe in Law againſt the party ſo accepting, provided the Bill be firſt Proteſted for non-payment; And ſurely ſuch a Verball acceptance is good; for upon ſuch an anſwer given, The party to whom it is payable, or to whom it was ſent to be ac<g ref="char:EOLhyphen"/>cepted, may peradventure
+<pb n="12" facs="tcp:169911:12"/>have written to his Friend that ſent him the Bill, and adviſed him, that he is pro<g ref="char:EOLhyphen"/>miſed acceptance, who will accordingly take notice ther<g ref="char:EOLhyphen"/>of; And if it were not ſo, namely that ſuch a Verball acceptance were binding, there might happen great inconveniences in matter of Trade between Merchant and Merchant, where their word is, or ought to be as their Deed.</p>
+            </div>
+            <div type="part">
+               <head>Accept for part.</head>
+               <p>IF the party to whom your Bill is directed ſay unto you when you preſent him the Bill to be accepted; That he will accept it for part, in
+<pb n="13" facs="tcp:169911:12"/>regard he hath no more pro<g ref="char:EOLhyphen"/>viſion in his hands from the party for whoſe account the bill of Exchange is drawn, or other the like reaſons beſt known to him<g ref="char:EOLhyphen"/>ſelfe; Then you may take that his acceptance for part, &amp; preſently go to a Notary, and Proteſt the Bill for want of acceptance for the whole ſumme therein mentioned, and ſend away that your Pro<g ref="char:EOLhyphen"/>teſt, to have ſecurity for the remaining ſumme; And ſo likewiſe at the time when the Bill ſhall fall due, you muſt go and receive the ſumme for which it was ac<g ref="char:EOLhyphen"/>cepted, and you may make a receit for the ſame on the backſide of the ſaid Bill,
+<pb n="14" facs="tcp:169911:13"/>uſing theſe words, <hi>Received in part of this Bill, &amp;c.</hi> and then proteſt again for non<g ref="char:EOLhyphen"/>payment of the remaining ſum, according as you for<g ref="char:EOLhyphen"/>merly did for non-accep<g ref="char:EOLhyphen"/>tance.</p>
+            </div>
+            <div type="part">
+               <head>Note on your Bill the time when it will fall due.</head>
+               <p>WHen you have pre<g ref="char:EOLhyphen"/>ſented your Bills of Exchange, and received them accepted, then preſently reckon when they will fall due, and note the ſame in ſhort on the backſide of your bill cloſe at one end thereof, with the juſt ſum which you are to receive at the time by the tenour of your bill, to
+<pb n="15" facs="tcp:169911:13"/>the end that at any time when you would deſire to know what monies you have to receive, and when, you may preſently ſee and know the ſame on the backſide of the Bills, which you will find to be much eaſe, con<g ref="char:EOLhyphen"/>veniency, and indeed Mer<g ref="char:EOLhyphen"/>chant like.</p>
+            </div>
+            <div type="part">
+               <head>Keepe or returne Bills ac<g ref="char:EOLhyphen"/>cepted.</head>
+               <p>YOur Bills thus accepted, if payable to your ſelf, you may lay up by you un<g ref="char:EOLhyphen"/>till the time of payment be expired, but if payable to him that delivered the value, or that ſent it you to cauſe to be accepted, then you
+<pb n="16" facs="tcp:169911:14"/>muſt therewith follow his Order either in keeping it by you untill the time it be due, or in returning it back to be Endorſed, and it may be to take up the value thereof himſelf, and ſo aſſign it to an other, or elſe deliver it to ſome other perſon here, who may have the ſecond Bill Endorſed payable unto him.</p>
+            </div>
+            <div type="part">
+               <head>The Deliverer is Maſter.</head>
+               <p>FOr you are to know that the party which firſt de<g ref="char:EOLhyphen"/>livered the money on the Bill of Exchange, (if the mo<g ref="char:EOLhyphen"/>nies which he delivered were for his owne Account,) is rightly and properly
+<pb n="17" facs="tcp:169911:14"/>Maſter thereof untill it ſhall fall due, and he can prohibit the party to whom it is di<g ref="char:EOLhyphen"/>rected, not to pay the ſame at the time, unto him to whom the Bill is firſt made payable, (ſuppoſing him to be a Factor for the deliverer) although the party on whom the Bill is drawn, have al<g ref="char:EOLhyphen"/>ready accepted the Bil; which prohibition is called a Coun<g ref="char:EOLhyphen"/>termand, and ought to be don in due forme, and but upon ſpeciall ſure ground. As for Example, if the Maſter or Principall doe make over monies by Ex<g ref="char:EOLhyphen"/>change payable to his Ser<g ref="char:EOLhyphen"/>vant or Factor, and do hear by certain advice given him, that his ſaid Factor doth take
+<pb n="18" facs="tcp:169911:15"/>ill courſes, whereby the mo<g ref="char:EOLhyphen"/>nies and effects which he hath in his hands for account of his Principall may be in danger of being miſ-ſpent, or waſted; Then and in ſuch Caſe the Principall may ſend his Countermand, forbid<g ref="char:EOLhyphen"/>ding the party to whom the Bill is directed, not to pay the money to that Factor, but to ſome other, or to keep the ſame in his hands untill further Order; Which Coun<g ref="char:EOLhyphen"/>termand is good and law<g ref="char:EOLhyphen"/>full according to cuſtome of Merchants, and ought to be obeyed accordingly, if the ſame be notified in due forme and time, by a Nota<g ref="char:EOLhyphen"/>ry, to the party which hath accepted the Bill, before it
+<pb n="19" facs="tcp:169911:15"/>be due; but if the time be expired, and the money or<g ref="char:EOLhyphen"/>derly paid before the Coun<g ref="char:EOLhyphen"/>termand come to hand, in ſuch Caſe there is nothing to be don for prevention of dan<g ref="char:EOLhyphen"/>ger, the Bird being already fled.</p>
+            </div>
+            <div type="part">
+               <head>Uſances.</head>
+               <p>A Bill of Exchange made payable at Uſance, double Uſance, or treble U<g ref="char:EOLhyphen"/>ſance, is to be underſtood by Uſance if from any part beyond the Seas (except <hi>Hamborrough</hi> and <hi>Venice</hi>) one moneth next after the date of the bill, and the like of double and treble Uſance, two or three moneths to be
+<pb n="20" facs="tcp:169911:16"/>accounted ſtill from the date of the bill; I ſay Uſance is one moneth next after the date of the bill, let the moneth fall out how it will, whether it be a moneth that hath in it 31 Days, 30 Days, or 28 Days, each moneth is a full and perfect Uſance, and you muſt not count e<g ref="char:EOLhyphen"/>very 30 Days a Uſance, as ſome imagine, but a moneth by denomination; As for inſtance, A Bill of Exchange dated in <hi>Amſterdam</hi> the 20<hi rend="sup">th</hi>. <hi>December new ſtile;</hi> which is the 10<hi rend="sup">th</hi> of <hi>December old ſtile,</hi> will be due the 10<hi rend="sup">th</hi> of <hi>January old ſtile;</hi> A bill dated the 15<hi rend="sup">th</hi> 
+                  <hi>June new ſtile,</hi> which is the 5<hi rend="sup">th</hi> of <hi>June old ſtile,</hi> will be due the 5<hi rend="sup">th</hi> of <hi>July old
+<pb n="21" facs="tcp:169911:16"/>ſtile;</hi> And a bill dated the 10<hi rend="sup">th</hi>. of <hi>February new ſtile,</hi> which is the <hi>laſt of January old ſtile,</hi> and made payable at Uſance in <hi>London,</hi> will be due the <hi>laſt of February old ſtile;</hi> and in like manner is to be accounted from any other date for Uſance, double Uſance, or treble Uſance.</p>
+            </div>
+            <div type="part">
+               <head>Dayes ſight.</head>
+               <p>A Bill payable at ſo many Days ſight, is to be ac<g ref="char:EOLhyphen"/>counted ſo many Days next after the ſaid Bill ſhall be accepted, or elſe Proteſted for non-acceptance, and not from the date of the Bill, nor from the Day that the ſame came to hand. And there<g ref="char:EOLhyphen"/>fore
+<pb n="22" facs="tcp:169911:17"/>if a Bill ſo made payable be omitted to be preſently Proteſted for non-acceptance, all that time betweene the preſenting of the Bill, and the Proteſting thereof, is loſt time, and not to be accounted as part of the number of dayes mentioned in the Bill of Exchange.</p>
+            </div>
+            <div type="part">
+               <head>An accepted Bill loſt.</head>
+               <p>IF an accepted Bill of Ex<g ref="char:EOLhyphen"/>change be loſt by the party to whom it is payable, when the time comes for him to go for the Money, that is to ſay, when the Bill is due, the par<g ref="char:EOLhyphen"/>ty which had accepted the Bill, is not freed from pay<g ref="char:EOLhyphen"/>ment of the Money, becauſe
+<pb n="23" facs="tcp:169911:17"/>the Bill is loſt. Only thus, the party to whom the Bill was payable, muſt give Bond or other Writing to the content of the party that did accept the Bill, to ſave him harme<g ref="char:EOLhyphen"/>leſſe from the accepted Bill which is loſt, and to diſcharge him from the ſumme therein mentioned; And then the party that did accept the Bill ought to pay the ſame, for otherwiſe the party to whom it was payable muſt ſend a Notary to make demande of the ſayd ſum upon the ſame offer of giving Bond to ſave harmeleſſe; And then if pay<g ref="char:EOLhyphen"/>ment be refuſed, the Notary will make Proteſt, &amp; the party that accepted the Bill is liable to make good the damage and coſt.</p>
+            </div>
+            <div type="part">
+               <pb n="20" facs="tcp:169911:18"/>
+               <head>No revoking acceptance.</head>
+               <p>IT happened one day that a young Merchant though a middle-aged man, came to me, and told me, he had few howers agoe accept<g ref="char:EOLhyphen"/>ed a Bill of Exchange, and delivered it back to the party to whom it was payable, but that juſt now he had received letters of advice, that the par<g ref="char:EOLhyphen"/>ty for whoſe account it was drawne, namely the drawer of the Bill, was failed of his credit, and therefore the Ac<g ref="char:EOLhyphen"/>cepter would, (if he could) unaccept the Bill, or make voyde his acceptance thereof, and deſired me to adviſe him how he ought to doe it. To
+<pb n="25" facs="tcp:169911:18"/>whom I made anſwer mer<g ref="char:EOLhyphen"/>rily, Sir, pray go to the par<g ref="char:EOLhyphen"/>ty that hath your accepted Bill, and tell him as much as you have told me, (if he know it not already,) and if he will give you leave to cancell your acceptance of the Bill, (which he ought not to do) then you may be free from your engage<g ref="char:EOLhyphen"/>ment, but for my part I know no other way, for if you cannot recall your Word, in ſuch a Caſe, much leſſe can you make voyd your Deed, without mutuall conſent.</p>
+            </div>
+            <div type="part">
+               <head>Acceptance for longer Time.</head>
+               <p>IF a Bill of Exchange be made payable at 30 Days
+<pb n="26" facs="tcp:169911:19"/>ſight, and the party to whom the ſaid bill is directed will not accept it but at 60 Days ſight; Or if the bill be drawn at double Uſance, and the party upon whom the ſame is drawn will not ac<g ref="char:EOLhyphen"/>cept it but at treble Uſance, or the like, that is to ſay, if the party upon whom the Bill of Exchange is charged will not accept it to pay ac<g ref="char:EOLhyphen"/>cording to the time therein limitted, in ſuch Caſe the party to whom the Bill is made payable, or his Aſſigns, muſt cauſe Proteſt to be made for want of acceptance of the ſaid Bill, according to the tenour thereof, and then he may take the acceptance offered; or if the Bill of
+<pb n="27" facs="tcp:169911:19"/>Exchange be left with the party to whom it is directed, to be accepted, and he do accept it for a longer time, or for a leſſer ſum than is men<g ref="char:EOLhyphen"/>tioned in the ſaid Bill, in either of thoſe Caſes the par<g ref="char:EOLhyphen"/>ty unto whom the ſaid Bill is made payable, or his Aſ<g ref="char:EOLhyphen"/>ſignes, muſt go with the ſaid Bill of Exchange to a No<g ref="char:EOLhyphen"/>tary, and cauſe Proteſt to be made for want of acceptance of the ſaid Bill for the whole ſum therein mentioned, or according to the tenour thereof, as aforeſaid; And when the bill is due accord<g ref="char:EOLhyphen"/>ing to the time therein limit<g ref="char:EOLhyphen"/>ted, the party to whom the ſaid bill is payable, or his Aſſignes, muſt demand pay<g ref="char:EOLhyphen"/>ment
+<pb n="28" facs="tcp:169911:20"/>thereof accordingly, and in default thereof a ſecond Proteſt muſt be made for non-payment; And then he may (in ſending away the Proteſt, but keeping the bill by him) receive the Money for which it is ac<g ref="char:EOLhyphen"/>cepted, or at the time it is accepted at, Unleſſe he have order to the contrary from the party which did remit the Money, which order he ought to follow.</p>
+            </div>
+            <div type="part">
+               <head>Receive part.</head>
+               <p>ANd if the bill be accep<g ref="char:EOLhyphen"/>ted to pay part of the Money mentioned in the bill, but not all, or that it be accepted for the whole ſum,
+<pb n="29" facs="tcp:169911:20"/>but when it is due the whole ſum be not payd, then he may receive ſo much as will be paid thereof, and may make a receit on the bill for ſo much as he hath received, in part of payment thereof, and he muſt Proteſt for non-payment of the remain<g ref="char:EOLhyphen"/>ing ſumme, according as is already here before de<g ref="char:EOLhyphen"/>clared.</p>
+            </div>
+            <div type="part">
+               <head>Bill accepted by an other Man.</head>
+               <p>MOreover, if a Bill of Exchange be drawn on <hi>A.</hi> and he refuſe to accept it, or if <hi>A.</hi> be out of Town and have left no Order for acceptance thereof, but <hi>C.</hi>
+                  <pb n="30" facs="tcp:169911:21"/>a Friend of the Drawers will accept the bill for honour of the Drawer; In either of theſe Caſes the party to whom the ſaid bill is payable, or his Aſsigne, ought firſt to cauſe Proteſt to be made for non-acceptance by <hi>A.</hi> and then he may take <hi>C.</hi> his acceptance, for otherwiſe the Drawer may allege that he did not draw the bill on <hi>C.</hi> but on <hi>A.</hi> and therefore according to cuſtom of Mer<g ref="char:EOLhyphen"/>chants, diligence ought to be uſed towards <hi>A.</hi> firſt, or elſe Order and Commiſsion is broken, and ſo the dam<g ref="char:EOLhyphen"/>age which may happen will be put upon him that breaks Commiſsion: for you ought to reſpect your Friends good as your own.</p>
+            </div>
+            <div type="part">
+               <pb n="31" facs="tcp:169911:21"/>
+               <head>How to reckon the Time.</head>
+               <p>A Bill of Exchange dated the ſecond of <hi>March, new stile,</hi> which is the 20<hi rend="sup">th</hi>. of <hi>February old ſtile,</hi> (except in leap-year) payable at double Uſance in <hi>London,</hi> will be due the 20<hi rend="sup">th</hi> of <hi>April old stile,</hi> and not the 22<hi rend="sup">th</hi> of <hi>April</hi> as ſome do erroniouſly imagine, who would deduct the 10 Days (to reduce <hi>the new ſtile to old ſtile</hi>) at the end of the double Uſance, and ſo they would go back<g ref="char:EOLhyphen"/>wards 10 Days, when of right they ſhould go for<g ref="char:EOLhyphen"/>wards from the date, and reckon the double Uſance from the very date of the
+<pb n="32" facs="tcp:169911:22"/>bill, thus, A bill dated the 2 <hi>March new stile</hi> is the 20<hi rend="sup">th</hi> of <hi>February old ſtile (Fe<g ref="char:EOLhyphen"/>bruary</hi> having but 28 days, for the 20<hi rend="sup">th</hi> of <hi>February old ſtile,</hi> is the ſecond of <hi>March new stile</hi> even to the very day of the week) ſo from the 20<hi rend="sup">th</hi> of <hi>February,</hi> to the 20<hi rend="sup">th</hi> of <hi>March</hi> is one Uſance, and from the 20<hi rend="sup">th</hi> of <hi>March,</hi> to the 20<hi rend="sup">th</hi> of <hi>April</hi> there is an other Uſance; And ſo in like manner if a bill of Exchange be dated the 10<hi rend="sup">th</hi> of <hi>March new ſtile,</hi> which is the laſt of <hi>February old ſtile,</hi> payable at treble Uſance, will be due the laſt of <hi>May</hi> in <hi>London,</hi> and not the 28<hi rend="sup">th</hi> of <hi>May</hi> as ſome do imagine, becauſe <hi>February</hi> hath but 28 Days;
+<pb n="33" facs="tcp:169911:22"/>for you muſt alwayes count your Uſances from the very date of the bill as I have already ſayd; And I have ſeen divers bills of Exchange which have bin ſent from beyond the Seas, wherein the Drawers have written <hi>the old ſtile and new stile</hi> both, in the date of their bills, one above an other, thus;
+<list>
+                     <item>
+                        <hi>Amsterdam adj.</hi> 3/13 <hi>Feb.</hi> 1650/51</item>
+                     <item>
+                        <hi>Middel. Adj.</hi> 15/25 <hi>March</hi> 1650/51</item>
+                     <item>
+                        <hi>Adj.</hi> 27/6. <hi>Mar.</hi> 1651. in <hi>Liver.</hi>
+                     </item>
+                     <item>
+                        <hi>Adj.</hi> 27/6. <hi>Apri.</hi> 1651. in <hi>Liver.</hi>
+                     </item>
+                  </list> and the like, which is very plaine and commendable in
+<pb n="34" facs="tcp:169911:23"/>thoſe that do ſo write, there<g ref="char:EOLhyphen"/>by to make things plaine to the capacity of the weakeſt, and to avoyd any further diſputes thereupon; And I conceive I have herein ſo clearly evidenced the truth and reaſon of my Opinion, that it cannot but convince thoſe that are of a contrary judgement, of their error and miſtake, except they will be wilfully blind, and then none ſo blind, or that they can give me any better rea<g ref="char:EOLhyphen"/>ſons for their contrary O<g ref="char:EOLhyphen"/>pinion, and then I will ſub<g ref="char:EOLhyphen"/>mit unto them: for all Bills (as I have ſayd before) that are made payable at Uſances muſt be reckoned directly from the date of the Bill,
+<pb n="35" facs="tcp:169911:23"/>which if it be <hi>new ſtile</hi> and payable in <hi>London,</hi> the date muſt firſt be found out in the <hi>old ſtile,</hi> and then count forward, and you cannot miſtake.</p>
+            </div>
+            <div type="part">
+               <head>Halfe Uſance.</head>
+               <p>HAlfe Uſance is alwaies reckoned fifteene dayes, neither more nor leſſe, be<g ref="char:EOLhyphen"/>cauſe there is not any Month in the yeare which hath in it above 31. dayes, 15. being the halfe of 30. and the odde day cannot be divided. So that if a Bill of Exchange da<g ref="char:EOLhyphen"/>ted the 3. <hi>February: new ſtile</hi> and payable in <hi>London</hi> at half Uſance; to know when this Bill is due, you muſt firſt (as before) looke to the date,
+<pb n="36" facs="tcp:169911:24"/>and you ſhall find that the 3. of <hi>February new ſtile,</hi> is the 24. <hi>January old ſtile;</hi> to which add 15. dayes, and it will fall due at halfe Uſance on the 8. of <hi>February</hi> follow<g ref="char:EOLhyphen"/>ing: And if that Bill dated the 3. of <hi>February new ſtile</hi> be made payable at Uſance and halfe, count from the 24. <hi>January old stile,</hi> to the 24. <hi>February old ſtile,</hi> the Uſance, and from thence to the 11. <hi>March</hi> (except in leap<g ref="char:EOLhyphen"/>year) is 15. dayes or halfe Uſance, on which 11. <hi>March</hi> the Uſance and halfe will ex<g ref="char:EOLhyphen"/>pire, and on that day your Bill will be due.</p>
+            </div>
+            <div type="part">
+               <pb n="37" facs="tcp:169911:24"/>
+               <head>Three dayes after due.</head>
+               <p>YOu are to take notice that the day on which any Bill of Exchange doth fall due, is alwayes to be ac<g ref="char:EOLhyphen"/>counted as part of the time limitted in the Bill of Ex<g ref="char:EOLhyphen"/>change as included therein; So that the day on which a<g ref="char:EOLhyphen"/>ny Bill of Exchange doth fall due, doth belong to the party which is to make pay<g ref="char:EOLhyphen"/>ment thereof; And three dayes next after that day are uſually allowed in <hi>London,</hi> for him to whom it is paya<g ref="char:EOLhyphen"/>ble, to procure payment thereof, and for him on whom it is drawn, to pay it, unleſſe it be a Bill of Ex<g ref="char:EOLhyphen"/>change
+<pb n="38" facs="tcp:169911:25"/>drawn from <hi>France,</hi> and that the <hi>French</hi> Poſt ſhall happen to depart on the ſecond day after it be due, or that the third day be a Sunday, or no working day, in any of thoſe Caſes the Money muſt be paid the ſe<g ref="char:EOLhyphen"/>cond day after the Bill falls due, or elſe Proteſt muſt be then made for non-payment, that ſo lawfull diligence may be uſed within the three days, and that advice there<g ref="char:EOLhyphen"/>of may be ſent away by the very firſt Poſt after the Bill falls due; for although three dayes are uſually allowed after a Bill is due, yet it is with this <hi>proviſo,</hi> that the ſame be not to the prejudice of him to whom the Bill is
+<pb n="39" facs="tcp:169911:25"/>payable, or of his correſpon<g ref="char:EOLhyphen"/>dent, or the Drawer; for if the Proteſt be not made with<g ref="char:EOLhyphen"/>in the three Days next after the Bill falls due, and that there ſhould happen in the interim any misfortune to the party on whom the Bill is drawn, that he ſhould be <hi>non-ſolvent,</hi> or the like, thoſe in <hi>France</hi> concerned therein will ſooner take ad<g ref="char:EOLhyphen"/>vantage thereupon, than they will do who take up Mo<g ref="char:EOLhyphen"/>nies by Exchange in <hi>Holland,</hi> or other parts; How ever this is a generall rule, name<g ref="char:EOLhyphen"/>ly, that according to cu<g ref="char:EOLhyphen"/>ſtome of Merchants in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> the Proteſt ought to be ſent away by the firſt Poſt next after the Bill falls due,
+<pb n="40" facs="tcp:169911:26"/>be it for what place ſo<g ref="char:EOLhyphen"/>ever.</p>
+            </div>
+            <div type="part">
+               <head>Proteſt muſt bee made though the three Dayes are expired.</head>
+               <p>BUt if Proteſt for non-payment be not made within the three Days after a Bill of Exchange falls due, and that through neg<g ref="char:EOLhyphen"/>ligence, or otherwiſe, it be forborn foure, five, ſix, or more Days after the time limitted in the Bill of Ex<g ref="char:EOLhyphen"/>change, yet nevertheleſſe even then it muſt be Proteſ<g ref="char:EOLhyphen"/>ted for non-payment, although the three Days are expired; for you cannot take any cours in Law againſt the party
+<pb n="41" facs="tcp:169911:26"/>which hath accepted the Bill, untill you have made a le<g ref="char:EOLhyphen"/>gall demand of the Money by a publique Notary; Nei<g ref="char:EOLhyphen"/>ther is the party that drew the Bill bound (according to cuſtome of Merchants) to repay the ſame unto him of whom he hath received the value, untill ſuch time as there doth appeare a Proteſt made for non-payment, to prove that the party who accepted the Bill, or on whom it was drawn, hath not payd the Money; But I would never counſell any body to omit Proteſting a Bill of Exchange the third Day after it is due; for if it be not Proteſted before the three Days are expired,
+<pb n="42" facs="tcp:169911:27"/>and the party which hath ac<g ref="char:EOLhyphen"/>cepted it ſhall then happen to be <hi>non-ſolvent,</hi> as I ſayd before, It may be alleged that the party to whom it was payable hath neglected his diligence therein, and the party that drew the Bill (eſ<g ref="char:EOLhyphen"/>pecially if it be a <hi>French</hi> Bill, that is to ſay, a Bill made in <hi>France</hi>) may hap<g ref="char:EOLhyphen"/>pen to delay the repayment thereof upon that account; for although the Drawer is bound to the Deliverer un<g ref="char:EOLhyphen"/>till the bill be ſatisfied, yet Proteſt ought to be made in due time, that ſo he may not ſuffer through neglect of the party to whom it is pay<g ref="char:EOLhyphen"/>able. It is good to deale ſecurely, there is no danger
+<pb n="43" facs="tcp:169911:27"/>at all in Proteſting within the three Days after a bill of Exchange is due, but there may be danger in forbearing to Proteſt within that time. Wherefore my advice is (let the party upon whom the bill is drawn, be never ſo good a man) if he do not pay within the time ac<g ref="char:EOLhyphen"/>cuſtomed, cauſe the bill preſently to be Proteſted for non-payment.</p>
+            </div>
+            <div type="part">
+               <head>Bill payable at a prefixt Day.</head>
+               <p>A Bill of Exchange made beyond the Seas, where they uſually write <hi>new ſtile,</hi> which is ten Days before our <hi>Engliſh ſtile,</hi> being <hi>old
+<pb n="44" facs="tcp:169911:28"/>ſtile;</hi> And ſuch a bill being payable on ſuch or ſuch a Day, of ſuch or ſuch a Moneth, that very Day of the Moneth according to <hi>our stile</hi> muſt be expired before the bill will be due, and it is not to be underſtood on ſuch or ſuch a Day <hi>new ſtile</hi> (ex<g ref="char:EOLhyphen"/>cept particularly expreſſed) but <hi>old ſtile,</hi> according to the <hi>ſtile</hi> of the place where it is made payable; As for in<g ref="char:EOLhyphen"/>ſtance, if a bill of Exchange be made thus,</p>
+               <floatingText xml:lang="eng" type="bill_of_exchange">
+                  <body>
+                     <head>Laus deo in Amsterdam the <hi>20th</hi> of March, <hi>1651. 200</hi> l. Sterling.</head>
+                     <p>ON the firſt of <hi>May</hi> next, pay by this my firſt
+<pb n="45" facs="tcp:169911:28"/>Bill of Exchange unto <hi>A. B.</hi> or his Aſsignes, the ſum of two hundred pounds Sterling for the value received of <hi>C. D.</hi> and put it to account as <hi>Per advice.</hi>
+                     </p>
+                     <trailer>To M. <hi>G. H.</hi> Merchant in <hi>London.</hi>
+                     </trailer>
+                     <closer>
+                        <signed>Yours, <hi>C.F.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>THis Bill of Exchange is not due untill the firſt of <hi>May Engliſh ſtile,</hi> and it is not to be accounted due (as ſome would have it) on the 21 <hi>April our ſtile,</hi> which is the firſt of <hi>May new ſtile,</hi> for it relates to the <hi>stile</hi> of the place, where it is made apyable, and not to the
+<pb n="46" facs="tcp:169911:29"/>computation of the place where it is drawn; for ſuppoſe now <hi>A. B.</hi> ſhould demand payment of this Bill on the 22, 23, or 24 of <hi>April old ſtile,</hi> and <hi>G. H.</hi> ſhould anſwer that he would pay it, after the firſt of <hi>May our ſtile</hi> when due according to the tenour of the Bill, and not before, I would faine know how any Notary can make a legall Proteſt for non-pay<g ref="char:EOLhyphen"/>ment before the firſt of <hi>May old ſtile</hi> be expired; for if he dates his Proteſt for non-payment before the firſt of <hi>May old ſtile,</hi> according to the computation of the place where it is payable, he will make his Proteſt beare date before the bill is due, and ſo
+<pb n="47" facs="tcp:169911:29"/>will be illegally made, as doth evidently appear.</p>
+            </div>
+            <div type="part">
+               <head>Acceptance by Wife, or Servant.</head>
+               <p>A Mans Wife, or Friend, or Servant, cannot ac<g ref="char:EOLhyphen"/>cept a Bill of Exchange for an other man, without ſuf<g ref="char:EOLhyphen"/>ficient authority from him by Letter of Attorny for the doing thereof: for it is a<g ref="char:EOLhyphen"/>gainſt reaſon that any man ſhould be bound to the pay<g ref="char:EOLhyphen"/>ment of any ſum without his own conſent; And that to be made appear under his Hand and Seal.</p>
+            </div>
+            <div type="part">
+               <pb n="48" facs="tcp:169911:30"/>
+               <head>A Bill drawne on one place, and payable at an other.</head>
+               <p>IF a Bill of Exchange be drawne upon a man li<g ref="char:EOLhyphen"/>ving at one place, and pay<g ref="char:EOLhyphen"/>able to a man living at an other place, the Bill may be ſent to the place where the man liveth, to accept thereof, and ſo returned to the party to whom it is payable, who when it is due muſt enquire for payment at the houſe, or in the place where it is payable, and in default ther<g ref="char:EOLhyphen"/>of he muſt there cauſe Pro<g ref="char:EOLhyphen"/>teſt to be made in due forme. As for inſtance, if a Bill be directed to <hi>A. B.</hi> Mer<g ref="char:EOLhyphen"/>chant
+<pb n="45" facs="tcp:169911:30"/>at <hi>Southampton,</hi> and payable to <hi>S. E.</hi> or Aſ<g ref="char:EOLhyphen"/>ſignes in <hi>London,</hi> this Bill may be ſent down to <hi>South<g ref="char:EOLhyphen"/>hampton</hi> to ſome Friend, to preſent to <hi>A. B.</hi> to accept, and upon his refuſall may either Proteſt at <hi>Southamp<g ref="char:EOLhyphen"/>ton</hi> for non-acceptance, or elſe may return his anſwer of refuſall by Letter to <hi>London,</hi> upon which Proteſt may be there drawn up; And when the Bill is due, you muſt then onely endeavour the payment at <hi>London,</hi> accord<g ref="char:EOLhyphen"/>ing to the tenour of the Bill, and if no order be there given for payment, you muſt cauſe Proteſt for non-payment to be made in <hi>London,</hi> as accu<g ref="char:EOLhyphen"/>ſtomed.</p>
+            </div>
+            <div type="part">
+               <pb n="46" facs="tcp:169911:31"/>
+               <head>The Taker bound to the De<g ref="char:EOLhyphen"/>liverer, and the Acceptor bound to the party to whom payable.</head>
+               <p>YOu are to take notice, That in all Bills of Ex<g ref="char:EOLhyphen"/>change, the party that draws or under-writes the Bill, is bound to the Deliverer, or to the party of whom the value was received; And the Acceptor, or party that doth accept the Bill, is bound to the party to whom the Bill is made payable: for al<g ref="char:EOLhyphen"/>though as well the Taker (or Drawer of the Bill) and alſo the Acceptor, are both bound in the Bill, yet they are not both bound to one
+<pb n="47" facs="tcp:169911:31"/>man; So that if there be oc<g ref="char:EOLhyphen"/>caſion to commence a ſute in Law againſt the Drawer, it muſt be entred in the name of the Deliverer; And in like manner if a ſute be com<g ref="char:EOLhyphen"/>menced againſt the Acceptor, it muſt be proſecuted in the name of the party to whom the Bill is made payable; for the party (happily) that drawes the Bill takes no great notice to whom it is made payable (he being thereunto directed uſually by the party that doth deliver him the value.) Neither doth the party which accepts the Bill take much cogniſance of the party that did deliver the value, but onely of the par<g ref="char:EOLhyphen"/>ty that drew it, and of
+<pb n="48" facs="tcp:169911:32"/>him to whom it is payable.</p>
+            </div>
+            <div type="part">
+               <head>Better Security.</head>
+               <p>IF a Merchant which hath accepted a Bill of Ex<g ref="char:EOLhyphen"/>change, ſhall happen to be <hi>non-ſolvent,</hi> or publikly re<g ref="char:EOLhyphen"/>ported to be failed of his credit, and to abſent him<g ref="char:EOLhyphen"/>ſelf from the Exchange, in the interim before the Bill of Exchange by him accep<g ref="char:EOLhyphen"/>ted be due; you muſt then preſently cauſe Proteſt to be made for want of better ſecurity, and to be ſent away by the next Poſt, that ſo ſe<g ref="char:EOLhyphen"/>curity may be given by the party which drew the Bill; And when the Bill is due, you muſt Proteſt again for non-payment.</p>
+            </div>
+            <div type="part">
+               <pb n="49" facs="tcp:169911:32"/>
+               <head>Proteſt in the Day-time.</head>
+               <p>IF you have occaſion to make Proteſt on any Bill of Exchange, either for non-payment, non-acceptance, or better ſecurity, be ſure ſtill to cauſe the ſame to be made in the Day-time, namely any time of the Day between Sun-riſing and Sun-ſetting, but tarry not to the laſt houre if you may doe otherwiſe.</p>
+            </div>
+            <div type="part">
+               <head>Proteſt returned.</head>
+               <p>WHen any Proteſt is re<g ref="char:EOLhyphen"/>turned unto you for non acceptance, or for bet<g ref="char:EOLhyphen"/>ter ſecurity, you muſt pre<g ref="char:EOLhyphen"/>ſently
+<pb n="50" facs="tcp:169911:33"/>repaire with the Proteſt to the party to whom you delivered your Money, and he is thereupon to give you ſecurity to your con<g ref="char:EOLhyphen"/>tent, and therein the cuſtom is, that the Drawer muſt procure an able man, a friend of his, to underwrite the Pro<g ref="char:EOLhyphen"/>teſt, in theſe, or the like words. <hi>I here under-written doe bind my ſelfe as princi<g ref="char:EOLhyphen"/>pall, according to cuſtome of Merchants, for the ſum of Mo<g ref="char:EOLhyphen"/>ny mentioned in the Bill of Exchange, whereupon this Pro<g ref="char:EOLhyphen"/>teſt is made.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <hi>London,</hi> this</dateline>
+                  <signed>
+                     <hi>Per me,</hi> A. B.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="51" facs="tcp:169911:33"/>
+               <head>Bill of Exchange loſt, left to be accepted.</head>
+               <p>IF a Bill of Exchange be left with a man to be ac<g ref="char:EOLhyphen"/>cepted, and hee happen to have loſt the Bill, or that it be miſdelivered, that is to ſay, delivered by him, or any of his Servants, to a wrong par<g ref="char:EOLhyphen"/>ty, or in any caſe that the party which left the Bill to be accepted cannot have his bill redelivered unto him, ac<g ref="char:EOLhyphen"/>cepted, or not accepted, ac<g ref="char:EOLhyphen"/>cording to cuſtome; In this caſe the party that loſt the bill, namely he on whom it was drawn, ought (if he in<g ref="char:EOLhyphen"/>tended to accept the bill, or had accepted it) to give a
+<pb n="52" facs="tcp:169911:34"/>note under his Hand and Seal for the payment of the Mo<g ref="char:EOLhyphen"/>ny to the party to whom it is payable, or to his Aſsigns, at the time limitted in the bill, upon the ſecond bill, if it come to hand within the time, or elſe upon that note at the ſame time. And in caſe the party that loſt the bill do refuſe ſo to do, He that preſented him the bill to be accepted muſt cauſe Pro<g ref="char:EOLhyphen"/>teſt thereupon to be made in due forme; And in caſe there be ſuch a Note made, and that at the time limitted the ſecond bill ſhall not be come to hand, you muſt en<g ref="char:EOLhyphen"/>deavour the receit of the Money upon that Note, ac<g ref="char:EOLhyphen"/>cording to the contents ther<g ref="char:EOLhyphen"/>of,
+<pb n="53" facs="tcp:169911:34"/>and in default of pay<g ref="char:EOLhyphen"/>ment you muſt Proteſt upon that Note for non-payment, as if you had the accepted bill, or the ſecond bill come to hand, and not paid at the the time.</p>
+            </div>
+            <div type="part">
+               <head>Bill indorſed in blanke.</head>
+               <p>IF a bill of Exchange be made payable to one be<g ref="char:EOLhyphen"/>yound the Seas, and he ſub<g ref="char:EOLhyphen"/>ſcribe only his Name on the backſide thereof, leaving an empty place above his Name, and do ſo ſend it over to a Merchant to receive the Mo<g ref="char:EOLhyphen"/>ney of the party on whom it is drawn, (as it is uſuall ſo to do) in this caſe when the party ſhall go for the money
+<pb n="54" facs="tcp:169911:35"/>when the Bill is due, he may either receive the Money himſelf, or ſend his man for it; if he go himſelf, he may either make an aſsignment in the empty place above the Name on the backſide of the Bill, to himſelfe, and then a receit underneath in his own Name for ſo much Mo<g ref="char:EOLhyphen"/>ney received, or elſe a receit in the empty place above the Name; And if he ſend his man with the Bill to receive the Money, the man may upon receit of the Money either deliver up the Bill as it is without writing any thing upon it, or elſe fill up the empty place with an aſsign<g ref="char:EOLhyphen"/>ment payable to his Maſter, and then make a receit under<g ref="char:EOLhyphen"/>neath
+<pb n="55" facs="tcp:169911:35"/>for ſo much Money received in full of that Bill for his Maſters uſe, accord<g ref="char:EOLhyphen"/>ing as the party that ſhall pay the Bill ſhall direct, for ei<g ref="char:EOLhyphen"/>ther way is good and war<g ref="char:EOLhyphen"/>rantable according to the cu<g ref="char:EOLhyphen"/>ſtome of Merchants uſed in <hi>London.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Accept for Account of Drawer.</head>
+               <p>IF a Bill of Exchange be drawn by <hi>A.</hi> on <hi>B.</hi> for ac<g ref="char:EOLhyphen"/>count of <hi>C.</hi> and <hi>B.</hi> will not accept the bill for account of <hi>C.</hi> but would willingly do it for account of <hi>A.</hi> the Draw<g ref="char:EOLhyphen"/>er; In this caſe <hi>B.</hi> may ſo accept the ſame, but he muſt firſt come, and declare ſo
+<pb n="56" facs="tcp:169911:36"/>much before a Notary pub<g ref="char:EOLhyphen"/>lique, who muſt make an Act thereof to be ſent away by <hi>B.</hi> unto <hi>A.</hi> that ſo hee may have ſpeedy advice ther<g ref="char:EOLhyphen"/>of, and then he may accept the bill, for account of <hi>A.</hi> and according to cuſtome of Merchants, <hi>A.</hi> is bound to make the ſame good again unto <hi>B.</hi> with Exchange and re-exchange and coſts; But <hi>B.</hi> muſt be ſure to make ſuch his Declaration before he do accept the bill, for otherwiſe if he ſhould firſt accept it, and then that it might be lawfull for him at any time after<g ref="char:EOLhyphen"/>wards to alter the property thereof, and charge it for account of the Drawer at the Acceptors pleaſure, the
+<pb n="57" facs="tcp:169911:36"/>Drawer might be much pre<g ref="char:EOLhyphen"/>judiced as in relation to <hi>C.</hi> by whoſe order (it may be,) and for whoſe account <hi>A.</hi> drew the ſame bill.</p>
+            </div>
+            <div type="part">
+               <head>Bill paid upon Proteſt.</head>
+               <p>IF a bill of Exchange be drawn upon a Merchant here in <hi>London,</hi> and he refuſe to pay it, and thereupon Pro<g ref="char:EOLhyphen"/>teſt being made, an other Merchant do appear, and declare before a Notary that he will pay it for honour of the Drawer upon proteſt, and accordingly doth pay the ſame, and cauſe an Act to be thereupon made; My advice is that he take a receit for the Money upon the Proteſt, and
+<pb n="58" facs="tcp:169911:37"/>not upon the Bill, that ſo he may ſtill keep the Bill free, as not being ſatisfied by thoſe whom it particularly did con<g ref="char:EOLhyphen"/>cerne; And let him returne the Proteſt and Act, with re<g ref="char:EOLhyphen"/>ceit thereupon, but keep the accepted Bill here to be ready upon all occaſions.</p>
+            </div>
+            <div type="part">
+               <head>Put Bill in Letter Caſe, or Almanack.</head>
+               <p>IN regard Bills of Exchange are writ upon ſmall peeces of Paper, which are ſubject to beloſt, eſpecially if you carry them about you, therefore I would adviſe you for pre<g ref="char:EOLhyphen"/>vention thereof to keep a let<g ref="char:EOLhyphen"/>ter Caſe, or (which is bet<g ref="char:EOLhyphen"/>ter) a pocket <hi>Almanack,</hi> or
+<pb n="59" facs="tcp:169911:37"/>ſmall pocket Paper-booke with Claſps, and carry your Bills of Exchange in ſuch a book, that ſo they may be kept clean and whole, and leſſe ſubject to be loſt.</p>
+               <p>Inland Bills may be Pro<g ref="char:EOLhyphen"/>teſted as well as Outland Bils, they being both of one and the ſame kinde.</p>
+            </div>
+            <div type="part">
+               <head>Bill muſt not be paid be<g ref="char:EOLhyphen"/>fore due.</head>
+               <p>IF a Bill of Exchange be made payable at Uſance, double Uſance, or at any lon<g ref="char:EOLhyphen"/>ger, or ſhorter time, and when the Bill ſhall be preſented to the party on whom it is drawn, to be accepted, he to whom it is Payable ſhall de<g ref="char:EOLhyphen"/>ſire
+<pb n="60" facs="tcp:169911:38"/>to have the Money paid him (by way of anticipation) before it be due by the tenour of the Bill, and ſhall offer to rebate for the time, or that the party to whom the ſaid Bill is directed, ſhall offer him to whom it is made pay<g ref="char:EOLhyphen"/>able, to pay him the Money preſently before the time in the bill be expired (upon diſcount, or in allowing him ſomething for the time,) The party which ſhall ſo pay any Money upon any bill of Ex<g ref="char:EOLhyphen"/>change before the time, doth run in ſome danger, in not obſerving order; for if the Money remitted be properly the Parties which delivered the ſame to the Subſcriber of the bill, and made payable
+<pb n="61" facs="tcp:169911:38"/>to a Factor for the uſe of the Deliverer, and that <hi>he</hi> ſhould (before the bill is due,) ſend a Countermand, not to pay it to the party to whom it was payable by the tenour of the bill, but to ſome other; In this Caſe, he on whom the bill is drawn ought to be lyable to the payment there<g ref="char:EOLhyphen"/>of accordingly; for as it is not properly in his power to prolong the time of payment, neither can he warrantably ſhorten it, or agree with the party to whom it is payable, to pay the Money before it be due (Although this Caſe doth not ordinarily happen, yet I have known it come to paſſe, and the like may be again;) Wherefore, I would
+<pb n="62" facs="tcp:169911:39"/>never adviſe any to pay Mo<g ref="char:EOLhyphen"/>ny on bills of Exchange be<g ref="char:EOLhyphen"/>fore it be due.</p>
+            </div>
+            <div type="part">
+               <head>Second Bill with an Aſsign<g ref="char:EOLhyphen"/>ment.</head>
+               <p>IF a Second Bill of Ex<g ref="char:EOLhyphen"/>change be ſent unto you from the party to whom it is payable, with an aſſignment on the backſide thereof to pay unto your ſelf; You muſt preſent the ſame to be accep<g ref="char:EOLhyphen"/>ted (unleſs you have the firſt bill already accepted.) If the party on whom it is drawn do refuſe to accept the ſe<g ref="char:EOLhyphen"/>cond bill, pretending that he hath formerly accepted the firſt bill, to an other man, unknown, and if you cannot
+<pb n="63" facs="tcp:169911:39"/>be actually poſſeſſed of that firſt accepted bill, you ought to cauſe Proteſt to be made for non-acceptance of that ſecond Bill, that ſo upon ſending away the Proteſt, ſe<g ref="char:EOLhyphen"/>curity may be given to your Friend beyond the Seas that the Mony ſhall be paid unto you at the time, for, the par<g ref="char:EOLhyphen"/>ty to whom the bill is direct<g ref="char:EOLhyphen"/>ed, is not bound by the bill to the payment of the Mony, untill he do accept of the bill of Exchange according to cuſtom of Merchants; for although as well the Subſcri<g ref="char:EOLhyphen"/>ber of the bill of Exchange, as the party which doth un<g ref="char:EOLhyphen"/>derwrite the aſsignment for the value received, and like<g ref="char:EOLhyphen"/>wiſe the Acceptor of the bill
+<pb n="64" facs="tcp:169911:40"/>are all of them bound in the bill of Exchange, yet they are not all immediatly bound either to the Deliverer, or to the party to whom it is pay<g ref="char:EOLhyphen"/>able, but each party is bound to the other with whom he doth more immediately cor<g ref="char:EOLhyphen"/>reſpond, as I have more particularly here before de<g ref="char:EOLhyphen"/>clared.</p>
+            </div>
+            <div type="part">
+               <head>Party dead which accepted.</head>
+               <p>IF the party to whom your bill of Exchange is direct<g ref="char:EOLhyphen"/>ed, do accept the Bill, and in caſe he ſhall afterwards happen to deceaſe, and de<g ref="char:EOLhyphen"/>part this life before your bill is due, you muſt at the ap<g ref="char:EOLhyphen"/>pointed time of payment,
+<pb n="65" facs="tcp:169911:40"/>demand the Mony of his Executors, or Adminiſtrators, at his mortuary Houſe, or laſt dwelling Houſe, and up<g ref="char:EOLhyphen"/>on their refuſall, or delay of payment, you muſt Proteſt in the ſame manner as you would have done, if he had lived, and not payd at the time.</p>
+            </div>
+            <div type="part">
+               <head>Party dead to whom payable.</head>
+               <p>IF the party to whom a bill of Exchange is payable be dead at the time when it falls due, and that his Executor or Adminiſtrator have not yet proved the Will, or taken out Letters of Adminiſtra<g ref="char:EOLhyphen"/>tion, yet nevertheleſſe you muſt not omit to make de<g ref="char:EOLhyphen"/>mand
+<pb n="66" facs="tcp:169911:41"/>of the Money at the juſt time limitted, and if you offer ſecurity to ſave harme<g ref="char:EOLhyphen"/>leſſe againſt the Executors, and Adminiſtrators, and that it be refuſed, you muſt Proteſt for non-payment.</p>
+            </div>
+            <div type="part">
+               <head>Bill without an aſsignment.</head>
+               <p>IN like manner if you have a bill of Exchange ſent un<g ref="char:EOLhyphen"/>to you to get to be accepted, payable to an other man, And (the bill being accep<g ref="char:EOLhyphen"/>ted and due) you have not an aſsignement on the Bill from the party to whom it is payable according to cu<g ref="char:EOLhyphen"/>ſtom of Merchants, you muſt make demand of the Mony, with offer to give ſecurity to ſave harmleſs againſt the par<g ref="char:EOLhyphen"/>ty
+<pb n="67" facs="tcp:169911:41"/>to whom the ſame is pay<g ref="char:EOLhyphen"/>able, and all others, and if your proffer be refuſed, you muſt Proteſt for non-pay<g ref="char:EOLhyphen"/>ment.</p>
+            </div>
+            <div type="part">
+               <head>No ſuch man to be found.</head>
+               <p>IF your Bill of Exchange be directed to <hi>N.</hi> Merchant in <hi>London,</hi> and that you ſhall have enquired on the Ex<g ref="char:EOLhyphen"/>change, and other parts of the City for ſuch a Merchant, and ſhall not be able to find him out or, that indeed there be not any ſuch man of that Name in <hi>London,</hi> you muſt carry your Bill to a Notary publik, and he muſt Proteſt thereup<g ref="char:EOLhyphen"/>on in due form.</p>
+            </div>
+            <div type="part">
+               <head>No body at home.</head>
+               <p>IF when a Bill of Exchange is ſent you to get accepted,
+<pb n="68" facs="tcp:169911:42"/>and there be no body at home at the Houſe of the party on whom it is drawn, you may cauſe Proteſt to be made at his dwelling houſe in his ab<g ref="char:EOLhyphen"/>ſence, aſwell as preſence: for you cannot be bound to make the party on whom it is drawn to abide at home, but in rea<g ref="char:EOLhyphen"/>ſon he is bound to attend his own buſines.</p>
+            </div>
+            <div type="part">
+               <head>No avoyding a Proteſt.</head>
+               <p>ANd the truth is, if no pro<g ref="char:EOLhyphen"/>teſt could be made legal<g ref="char:EOLhyphen"/>ly, but in ſpeaking to the par<g ref="char:EOLhyphen"/>ty himſelf, a Proteſt might be prevented at pleaſure; but it lies not in the power of the party on whom a bil is drawn, to hinder the proteſting of the bill, if not accepted, and payd according to the tenour ther<g ref="char:EOLhyphen"/>of.</p>
+            </div>
+            <div type="part">
+               <pb n="69" facs="tcp:169911:42"/>
+               <head>How to bring French Crownes into Starling Money.</head>
+               <p>IF you have a Bill of Ex<g ref="char:EOLhyphen"/>change ſent you from <hi>France</hi> to be received in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and your Bill be remitted to pay ſo many Crownes, at ſuch or ſuch a price, as it is u<g ref="char:EOLhyphen"/>ſually ſo to do, To know how much you muſt receive here in Sterling Money, you muſt firſt bring your French Crowns into Pence Sterling, at the price or rate ſet down in your Bill, and then bring your pence into pounds, and you will have your deſire. As for example, If your Bill be drawn to pay 250 Crowns at 56 ¼<hi rend="sup">d</hi> 
+                  <hi>per</hi> Crown, firſt multiply the 250. Crowns by 56<hi rend="sup">d</hi>. &amp; it
+<pb n="70" facs="tcp:169911:43"/>will make 14000 pence, wher<g ref="char:EOLhyphen"/>unto adde for the ¼, 62 ½d (be<g ref="char:EOLhyphen"/>cauſe 62 ½ is the ¼ part of 250.) &amp; it will make 14062 ½d Ster<g ref="char:EOLhyphen"/>ling, and divide the 14062 by 240<hi rend="sup">d</hi> (becauſe 240<hi rend="sup">d</hi> makes a pound Sterling) and it will make 58<hi rend="sup">l</hi>. Ster. and there will remain 142<hi rend="sup">d</hi>. which divide by 12<hi rend="sup">d</hi>. &amp; it wil make 11<hi rend="sup">s</hi> &amp; there will remain 10<hi rend="sup">d</hi>, then adde the ½d remaining of your multi<g ref="char:EOLhyphen"/>plication, and it will be to<g ref="char:EOLhyphen"/>gether 58-11-10 ½, as for Example,
+<table>
+                     <row>
+                        <cell>250</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>56</cell>
+                        <cell>1</cell>
+                        <cell> </cell>
+                        <cell>1</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>1500</cell>
+                        <cell>244</cell>
+                        <cell> </cell>
+                        <cell>20</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>1250</cell>
+                        <cell>14062</cell>
+                        <cell>(58.</cell>
+                        <cell>142</cell>
+                        <cell>(11.10 ½</cell>
+                     </row>
+                     <row>
+                        <cell>—62 ½</cell>
+                        <cell>2440</cell>
+                        <cell>l. s. d</cell>
+                        <cell>122</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>14062 ½</cell>
+                        <cell>2</cell>
+                        <cell>58-11-10 ½</cell>
+                        <cell>1</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <pb n="71" facs="tcp:169911:43"/>BY the ſame<g ref="char:punc">▪</g> Rule you may reduce Duccats, Dollers, or Peeces of Eight into Sterling Money, when you know how many pence Sterling the Duccat, Doller, or Peece of Eight is valued at for the Exchange there<g ref="char:EOLhyphen"/>of.</p>
+            </div>
+            <div type="part">
+               <pb n="72" facs="tcp:169911:44"/>
+               <head>Short Inſtructions how to keepe Merchants Books of Ac<g ref="char:EOLhyphen"/>compt after the Italian Manner.</head>
+               <p n="1">
+                  <hi>1. Money paid.</hi>
+               </p>
+               <p>VVHen you pay any Mony to any body, make the perſon Debitor, and the account of Caſh Creditor.</p>
+               <p n="2">
+                  <hi>2. Money received.</hi>
+               </p>
+               <p>For Mony received, make the account of Caſh Debitor, and the perſon of whom it is received Creditor.</p>
+               <p n="3">
+                  <hi>3. Goods bought for ready Money.</hi>
+               </p>
+               <p>When goods are bought for ready Money, make the account of Goods Debitor, and caſh Cre<g ref="char:EOLhyphen"/>ditor.</p>
+               <p n="4">
+                  <pb n="73" facs="tcp:169911:44"/>
+                  <hi>4. Goods ſold for ready Money.</hi>
+               </p>
+               <p>When goods are ſold for ready Money, make the account of Caſh Debitor, and the Goods Creditor.</p>
+               <p n="5">
+                  <hi>5. Goods bought at time.</hi>
+               </p>
+               <p>When goods are bought at time, then make the account of the goods Debitor, and the Per<g ref="char:EOLhyphen"/>ſon of whom they are bought Creditor.</p>
+               <p n="6">
+                  <hi>6. Goods ſold at time.</hi>
+               </p>
+               <p>When Goods are ſold at time, then make the account of the Perſon Debitor, and the Goods Creditor.</p>
+               <p n="7">
+                  <hi>7. Goods bought one part at Time, and the reſt for ready Money.</hi>
+               </p>
+               <p>Goods bought one part for ready Money, and the reſt at
+<pb n="74" facs="tcp:169911:45"/>Time, muſt be divided in two parts, namely, firſt the Goods muſt be made Debitor for the whole ſum, and the perſon of who<g ref="char:cmbAbbrStroke">̄</g> they are bought creditor: ſe<g ref="char:EOLhyphen"/>condly, as much as is paid in rea<g ref="char:EOLhyphen"/>dy Mony you muſt make the Per<g ref="char:EOLhyphen"/>ſon Debitor, and Caſh Creditor.</p>
+               <p n="8">8. Goods ſold one part for ready Mony, and the reſt at Time.</p>
+               <p>
+                  <hi>Goods ſold one part for ready Mony, the reſt at Time, firſt you muſt make the Perſon Debitor for the whole ſum, And after<g ref="char:EOLhyphen"/>wards the goods Creditor; Then you muſt make the caſh Debitor for ſo much as you receive in ready Money, and the Perſon Creditor for the reſt.</hi>
+               </p>
+               <p n="9">9. Mony paid for goods be<g ref="char:EOLhyphen"/>fore it is due.</p>
+               <p>
+                  <hi>When you have bought any
+<pb n="75" facs="tcp:169911:45"/>goods at Time, and afterwards you agree with the perſon which ſold you the goods to pay your Money before it is due, with re<g ref="char:EOLhyphen"/>bating, or diſcount, then you muſt make the Perſon Debitor as followeth,</hi> viz. <hi>to Caſh for ſo much as you pay him; And to Profit and Loſſe for the rebate<g ref="char:EOLhyphen"/>ment of allowance for the diſ<g ref="char:EOLhyphen"/>count.</hi>
+               </p>
+               <p n="10">10. Goods ſold in barter for others.</p>
+               <p>
+                  <hi>When you ſell goods in barter for others, then you muſt make the Goods which you receive Debitor to the Goods which you delivered.</hi>
+               </p>
+               <p>Receive before you write, and write before you pay,</p>
+               <p>And ſo a juſt Account, be ſure to keepe you may.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:169911:46"/>
+               <p>
+                  <table>
+                     <head>An Almanack, or Table to know the juſt date of Bills of Exchange from <hi>New ſtile,</hi> to <hi>Old ſtile</hi> for ever.</head>
+                     <row>
+                        <cell role="label" cols="2">Jan.</cell>
+                        <cell role="label" cols="2">Feb.</cell>
+                        <cell role="label" cols="2">Mar.</cell>
+                        <cell role="label" cols="2">Ap.</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Stilo Romano, Stilo novo, <hi>or New ſtile.</hi>
+                        </cell>
+                        <cell role="label">Stilo Angliae, Stilo veteri <hi>Old ſtile</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>22</cell>
+                        <cell>1</cell>
+                        <cell>22</cell>
+                        <cell>1</cell>
+                        <cell>19</cell>
+                        <cell>1</cell>
+                        <cell>22</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>23</cell>
+                        <cell>2</cell>
+                        <cell>23</cell>
+                        <cell>2</cell>
+                        <cell>20</cell>
+                        <cell>2</cell>
+                        <cell>23</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>24</cell>
+                        <cell>3</cell>
+                        <cell>24</cell>
+                        <cell>3</cell>
+                        <cell>21</cell>
+                        <cell>3</cell>
+                        <cell>24</cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>25</cell>
+                        <cell>4</cell>
+                        <cell>25</cell>
+                        <cell>4</cell>
+                        <cell>22</cell>
+                        <cell>4</cell>
+                        <cell>25</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>26</cell>
+                        <cell>5</cell>
+                        <cell>26</cell>
+                        <cell>5</cell>
+                        <cell>23</cell>
+                        <cell>5</cell>
+                        <cell>26</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>27</cell>
+                        <cell>6</cell>
+                        <cell>27</cell>
+                        <cell>6</cell>
+                        <cell>24</cell>
+                        <cell>6</cell>
+                        <cell>27</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>28</cell>
+                        <cell>7</cell>
+                        <cell>28</cell>
+                        <cell>7</cell>
+                        <cell>15</cell>
+                        <cell>7</cell>
+                        <cell>28</cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>29</cell>
+                        <cell>8</cell>
+                        <cell>29</cell>
+                        <cell>8</cell>
+                        <cell>26</cell>
+                        <cell>8</cell>
+                        <cell>29</cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>30</cell>
+                        <cell>9</cell>
+                        <cell>30</cell>
+                        <cell>9</cell>
+                        <cell>27</cell>
+                        <cell>9</cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>31</cell>
+                        <cell>10</cell>
+                        <cell>31</cell>
+                        <cell>10</cell>
+                        <cell>28</cell>
+                        <cell>10</cell>
+                        <cell>31</cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell>Jan. 1</cell>
+                        <cell>11</cell>
+                        <cell>Feb. 1</cell>
+                        <cell>11</cell>
+                        <cell>M. 1</cell>
+                        <cell>11</cell>
+                        <cell>Ap. 1</cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell>2</cell>
+                        <cell>12</cell>
+                        <cell>2</cell>
+                        <cell>12</cell>
+                        <cell>2</cell>
+                        <cell>12</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>3</cell>
+                        <cell>13</cell>
+                        <cell>3</cell>
+                        <cell>13</cell>
+                        <cell>3</cell>
+                        <cell>13</cell>
+                        <cell>3</cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell>4</cell>
+                        <cell>14</cell>
+                        <cell>4</cell>
+                        <cell>14</cell>
+                        <cell>4</cell>
+                        <cell>14</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>5</cell>
+                        <cell>15</cell>
+                        <cell>5</cell>
+                        <cell>15</cell>
+                        <cell>5</cell>
+                        <cell>15</cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>6</cell>
+                        <cell>16</cell>
+                        <cell>6</cell>
+                        <cell>16</cell>
+                        <cell>6</cell>
+                        <cell>16</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell>7</cell>
+                        <cell>17</cell>
+                        <cell>7</cell>
+                        <cell>17</cell>
+                        <cell>7</cell>
+                        <cell>17</cell>
+                        <cell>7</cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell>8</cell>
+                        <cell>18</cell>
+                        <cell>8</cell>
+                        <cell>18</cell>
+                        <cell>8</cell>
+                        <cell>18</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell>9</cell>
+                        <cell>19</cell>
+                        <cell>9</cell>
+                        <cell>19</cell>
+                        <cell>9</cell>
+                        <cell>19</cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell>10</cell>
+                        <cell>20</cell>
+                        <cell>10</cell>
+                        <cell>20</cell>
+                        <cell>10</cell>
+                        <cell>20</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>21</cell>
+                        <cell>11</cell>
+                        <cell>21</cell>
+                        <cell>11</cell>
+                        <cell>21</cell>
+                        <cell>11</cell>
+                        <cell>21</cell>
+                        <cell>11</cell>
+                     </row>
+                     <row>
+                        <cell>22</cell>
+                        <cell>12</cell>
+                        <cell>22</cell>
+                        <cell>12</cell>
+                        <cell>22</cell>
+                        <cell>12</cell>
+                        <cell>22</cell>
+                        <cell>12</cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell>13</cell>
+                        <cell>23</cell>
+                        <cell>13</cell>
+                        <cell>23</cell>
+                        <cell>13</cell>
+                        <cell>23</cell>
+                        <cell>13</cell>
+                     </row>
+                     <row>
+                        <cell>24</cell>
+                        <cell>14</cell>
+                        <cell>24</cell>
+                        <cell>14</cell>
+                        <cell>24</cell>
+                        <cell>14</cell>
+                        <cell>24</cell>
+                        <cell>14</cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell>15</cell>
+                        <cell>25</cell>
+                        <cell>15</cell>
+                        <cell>15</cell>
+                        <cell>15</cell>
+                        <cell>25</cell>
+                        <cell>15</cell>
+                     </row>
+                     <row>
+                        <cell>26</cell>
+                        <cell>16</cell>
+                        <cell>26</cell>
+                        <cell>16</cell>
+                        <cell>26</cell>
+                        <cell>16</cell>
+                        <cell>26</cell>
+                        <cell>16</cell>
+                     </row>
+                     <row>
+                        <cell>27</cell>
+                        <cell>17</cell>
+                        <cell>27</cell>
+                        <cell>17</cell>
+                        <cell>27</cell>
+                        <cell>17</cell>
+                        <cell>27</cell>
+                        <cell>17</cell>
+                     </row>
+                     <row>
+                        <cell>28</cell>
+                        <cell>18</cell>
+                        <cell>28</cell>
+                        <cell>18</cell>
+                        <cell>28</cell>
+                        <cell>18</cell>
+                        <cell>28</cell>
+                        <cell>18</cell>
+                     </row>
+                     <row>
+                        <cell>29</cell>
+                        <cell>19</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>29</cell>
+                        <cell>19</cell>
+                        <cell>29</cell>
+                        <cell>19</cell>
+                     </row>
+                     <row>
+                        <cell>30</cell>
+                        <cell>20</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>30</cell>
+                        <cell>20</cell>
+                        <cell>30</cell>
+                        <cell>20</cell>
+                     </row>
+                     <pb facs="tcp:169911:46"/>
+                     <row>
+                        <cell role="label" cols="2">May</cell>
+                        <cell role="label" cols="2">June</cell>
+                        <cell role="label" cols="2">July</cell>
+                        <cell role="label" cols="2">Aug.</cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>21</cell>
+                        <cell>1</cell>
+                        <cell>22</cell>
+                        <cell>1</cell>
+                        <cell>21</cell>
+                        <cell>1</cell>
+                        <cell>22</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>22</cell>
+                        <cell>2</cell>
+                        <cell>22</cell>
+                        <cell>2</cell>
+                        <cell>22</cell>
+                        <cell>2</cell>
+                        <cell>23</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>23</cell>
+                        <cell>3</cell>
+                        <cell>24</cell>
+                        <cell>3</cell>
+                        <cell>23</cell>
+                        <cell>3</cell>
+                        <cell>24</cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>24</cell>
+                        <cell>4</cell>
+                        <cell>25</cell>
+                        <cell>4</cell>
+                        <cell>24</cell>
+                        <cell>4</cell>
+                        <cell>25</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>25</cell>
+                        <cell>5</cell>
+                        <cell>26</cell>
+                        <cell>5</cell>
+                        <cell>25</cell>
+                        <cell>5</cell>
+                        <cell>26</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>26</cell>
+                        <cell>6</cell>
+                        <cell>27</cell>
+                        <cell>6</cell>
+                        <cell>26</cell>
+                        <cell>6</cell>
+                        <cell>27</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>27</cell>
+                        <cell>7</cell>
+                        <cell>28</cell>
+                        <cell>7</cell>
+                        <cell>27</cell>
+                        <cell>7</cell>
+                        <cell>28</cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>28</cell>
+                        <cell>8</cell>
+                        <cell>29</cell>
+                        <cell>8</cell>
+                        <cell>28</cell>
+                        <cell>8</cell>
+                        <cell>29</cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>29</cell>
+                        <cell>9</cell>
+                        <cell>30</cell>
+                        <cell>9</cell>
+                        <cell>29</cell>
+                        <cell>9</cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>30</cell>
+                        <cell>10</cell>
+                        <cell>31</cell>
+                        <cell>10</cell>
+                        <cell>30</cell>
+                        <cell>10</cell>
+                        <cell>31</cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell>M. 1.</cell>
+                        <cell>11</cell>
+                        <cell>Ju. 1.</cell>
+                        <cell>11</cell>
+                        <cell>Jul. 1.</cell>
+                        <cell>11</cell>
+                        <cell>Aug. 1.</cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell>2</cell>
+                        <cell>12</cell>
+                        <cell>2</cell>
+                        <cell>12</cell>
+                        <cell>2</cell>
+                        <cell>12</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>3</cell>
+                        <cell>13</cell>
+                        <cell>3</cell>
+                        <cell>13</cell>
+                        <cell>3</cell>
+                        <cell>13</cell>
+                        <cell>3</cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell>4</cell>
+                        <cell>14</cell>
+                        <cell>4</cell>
+                        <cell>14</cell>
+                        <cell>4</cell>
+                        <cell>14</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>5</cell>
+                        <cell>15</cell>
+                        <cell>5</cell>
+                        <cell>15</cell>
+                        <cell>5</cell>
+                        <cell>15</cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>6</cell>
+                        <cell>16</cell>
+                        <cell>6</cell>
+                        <cell>16</cell>
+                        <cell>6</cell>
+                        <cell>16</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell>7</cell>
+                        <cell>17</cell>
+                        <cell>7</cell>
+                        <cell>17</cell>
+                        <cell>7</cell>
+                        <cell>17</cell>
+                        <cell>7</cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell>8</cell>
+                        <cell>18</cell>
+                        <cell>8</cell>
+                        <cell>18</cell>
+                        <cell>8</cell>
+                        <cell>18</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell>9</cell>
+                        <cell>19</cell>
+                        <cell>9</cell>
+                        <cell>19</cell>
+                        <cell>9</cell>
+                        <cell>19</cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell>10</cell>
+                        <cell>20</cell>
+                        <cell>10</cell>
+                        <cell>20</cell>
+                        <cell>10</cell>
+                        <cell>20</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>21</cell>
+                        <cell>11</cell>
+                        <cell>21</cell>
+                        <cell>11</cell>
+                        <cell>21</cell>
+                        <cell>11</cell>
+                        <cell>21</cell>
+                        <cell>11</cell>
+                     </row>
+                     <row>
+                        <cell>22</cell>
+                        <cell>12</cell>
+                        <cell>22</cell>
+                        <cell>12</cell>
+                        <cell>22</cell>
+                        <cell>12</cell>
+                        <cell>22</cell>
+                        <cell>12</cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell>13</cell>
+                        <cell>23</cell>
+                        <cell>13</cell>
+                        <cell>23</cell>
+                        <cell>13</cell>
+                        <cell>23</cell>
+                        <cell>13</cell>
+                     </row>
+                     <row>
+                        <cell>24</cell>
+                        <cell>14</cell>
+                        <cell>24</cell>
+                        <cell>14</cell>
+                        <cell>24</cell>
+                        <cell>14</cell>
+                        <cell>24</cell>
+                        <cell>14</cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell>15</cell>
+                        <cell>25</cell>
+                        <cell>15</cell>
+                        <cell>25</cell>
+                        <cell>15</cell>
+                        <cell>25</cell>
+                        <cell>15</cell>
+                     </row>
+                     <row>
+                        <cell>26</cell>
+                        <cell>16</cell>
+                        <cell>26</cell>
+                        <cell>16</cell>
+                        <cell>26</cell>
+                        <cell>16</cell>
+                        <cell>26</cell>
+                        <cell>16</cell>
+                     </row>
+                     <row>
+                        <cell>27</cell>
+                        <cell>17</cell>
+                        <cell>27</cell>
+                        <cell>17</cell>
+                        <cell>27</cell>
+                        <cell>17</cell>
+                        <cell>27</cell>
+                        <cell>17</cell>
+                     </row>
+                     <row>
+                        <cell>28</cell>
+                        <cell>18</cell>
+                        <cell>28</cell>
+                        <cell>18</cell>
+                        <cell>28</cell>
+                        <cell>18</cell>
+                        <cell>28</cell>
+                        <cell>18</cell>
+                     </row>
+                     <row>
+                        <cell>29</cell>
+                        <cell>19</cell>
+                        <cell>29</cell>
+                        <cell>19</cell>
+                        <cell>29</cell>
+                        <cell>19</cell>
+                        <cell>29</cell>
+                        <cell>19</cell>
+                     </row>
+                     <row>
+                        <cell>30</cell>
+                        <cell>20</cell>
+                        <cell>30</cell>
+                        <cell>20</cell>
+                        <cell>30</cell>
+                        <cell>20</cell>
+                        <cell>30</cell>
+                        <cell>20</cell>
+                     </row>
+                     <row>
+                        <cell>31</cell>
+                        <cell>21</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>31</cell>
+                        <cell>21</cell>
+                        <cell>31</cell>
+                        <cell>21</cell>
+                     </row>
+                     <pb facs="tcp:169911:47"/>
+                     <row>
+                        <cell role="label" cols="2">Sep.</cell>
+                        <cell role="label" cols="2">Oct.</cell>
+                        <cell role="label" cols="2">Nov.</cell>
+                        <cell role="label" cols="2">Dec.</cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>22</cell>
+                        <cell>1</cell>
+                        <cell>21</cell>
+                        <cell>1</cell>
+                        <cell>22</cell>
+                        <cell>1</cell>
+                        <cell>21</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>23</cell>
+                        <cell>2</cell>
+                        <cell>22</cell>
+                        <cell>2</cell>
+                        <cell>33</cell>
+                        <cell>2</cell>
+                        <cell>22</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>24</cell>
+                        <cell>3</cell>
+                        <cell>23</cell>
+                        <cell>3</cell>
+                        <cell>24</cell>
+                        <cell>3</cell>
+                        <cell>23</cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>25</cell>
+                        <cell>4</cell>
+                        <cell>24</cell>
+                        <cell>4</cell>
+                        <cell>25</cell>
+                        <cell>4</cell>
+                        <cell>24</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>26</cell>
+                        <cell>5</cell>
+                        <cell>25</cell>
+                        <cell>5</cell>
+                        <cell>26</cell>
+                        <cell>5</cell>
+                        <cell>25</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>27</cell>
+                        <cell>6</cell>
+                        <cell>26</cell>
+                        <cell>6</cell>
+                        <cell>27</cell>
+                        <cell>6</cell>
+                        <cell>26</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>28</cell>
+                        <cell>7</cell>
+                        <cell>27</cell>
+                        <cell>7</cell>
+                        <cell>28</cell>
+                        <cell>7</cell>
+                        <cell>27</cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>29</cell>
+                        <cell>8</cell>
+                        <cell>28</cell>
+                        <cell>8</cell>
+                        <cell>29</cell>
+                        <cell>8</cell>
+                        <cell>28</cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>30</cell>
+                        <cell>9</cell>
+                        <cell>29</cell>
+                        <cell>9</cell>
+                        <cell>30</cell>
+                        <cell>9</cell>
+                        <cell>29</cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>31</cell>
+                        <cell>10</cell>
+                        <cell>30</cell>
+                        <cell>10</cell>
+                        <cell>31</cell>
+                        <cell>10</cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell>Sep. 1.</cell>
+                        <cell>11</cell>
+                        <cell>Oct. 1.</cell>
+                        <cell>11</cell>
+                        <cell>No. 1</cell>
+                        <cell>11</cell>
+                        <cell>Dec 1</cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell>2</cell>
+                        <cell>12</cell>
+                        <cell>2</cell>
+                        <cell>12</cell>
+                        <cell>2</cell>
+                        <cell>12</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>3</cell>
+                        <cell>13</cell>
+                        <cell>3</cell>
+                        <cell>13</cell>
+                        <cell>3</cell>
+                        <cell>13</cell>
+                        <cell>3</cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell>4</cell>
+                        <cell>14</cell>
+                        <cell>4</cell>
+                        <cell>14</cell>
+                        <cell>4</cell>
+                        <cell>14</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>5</cell>
+                        <cell>15</cell>
+                        <cell>5</cell>
+                        <cell>15</cell>
+                        <cell>5</cell>
+                        <cell>15</cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>6</cell>
+                        <cell>16</cell>
+                        <cell>6</cell>
+                        <cell>16</cell>
+                        <cell>6</cell>
+                        <cell>16</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell>7</cell>
+                        <cell>17</cell>
+                        <cell>7</cell>
+                        <cell>17</cell>
+                        <cell>7</cell>
+                        <cell>17</cell>
+                        <cell>7</cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell>8</cell>
+                        <cell>18</cell>
+                        <cell>8</cell>
+                        <cell>18</cell>
+                        <cell>8</cell>
+                        <cell>18</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell>9</cell>
+                        <cell>19</cell>
+                        <cell>9</cell>
+                        <cell>19</cell>
+                        <cell>9</cell>
+                        <cell>19</cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell>10</cell>
+                        <cell>20</cell>
+                        <cell>10</cell>
+                        <cell>20</cell>
+                        <cell>10</cell>
+                        <cell>20</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>21</cell>
+                        <cell>11</cell>
+                        <cell>21</cell>
+                        <cell>11</cell>
+                        <cell>21</cell>
+                        <cell>11</cell>
+                        <cell>21</cell>
+                        <cell>11</cell>
+                     </row>
+                     <row>
+                        <cell>22</cell>
+                        <cell>12</cell>
+                        <cell>22</cell>
+                        <cell>12</cell>
+                        <cell>22</cell>
+                        <cell>12</cell>
+                        <cell>22</cell>
+                        <cell>12</cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell>13</cell>
+                        <cell>23</cell>
+                        <cell>13</cell>
+                        <cell>23</cell>
+                        <cell>13</cell>
+                        <cell>23</cell>
+                        <cell>13</cell>
+                     </row>
+                     <row>
+                        <cell>24</cell>
+                        <cell>14</cell>
+                        <cell>24</cell>
+                        <cell>14</cell>
+                        <cell>24</cell>
+                        <cell>14</cell>
+                        <cell>24</cell>
+                        <cell>14</cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell>15</cell>
+                        <cell>25</cell>
+                        <cell>15</cell>
+                        <cell>25</cell>
+                        <cell>15</cell>
+                        <cell>25</cell>
+                        <cell>15</cell>
+                     </row>
+                     <row>
+                        <cell>26</cell>
+                        <cell>16</cell>
+                        <cell>26</cell>
+                        <cell>16</cell>
+                        <cell>26</cell>
+                        <cell>16</cell>
+                        <cell>26</cell>
+                        <cell>16</cell>
+                     </row>
+                     <row>
+                        <cell>27</cell>
+                        <cell>17</cell>
+                        <cell>27</cell>
+                        <cell>17</cell>
+                        <cell>27</cell>
+                        <cell>17</cell>
+                        <cell>27</cell>
+                        <cell>17</cell>
+                     </row>
+                     <row>
+                        <cell>28</cell>
+                        <cell>18</cell>
+                        <cell>28</cell>
+                        <cell>18</cell>
+                        <cell>28</cell>
+                        <cell>18</cell>
+                        <cell>28</cell>
+                        <cell>18</cell>
+                     </row>
+                     <row>
+                        <cell>29</cell>
+                        <cell>19</cell>
+                        <cell>29</cell>
+                        <cell>19</cell>
+                        <cell>29</cell>
+                        <cell>19</cell>
+                        <cell>29</cell>
+                        <cell>19</cell>
+                     </row>
+                     <row>
+                        <cell>30</cell>
+                        <cell>20</cell>
+                        <cell>30</cell>
+                        <cell>20</cell>
+                        <cell>30</cell>
+                        <cell>20</cell>
+                        <cell>30</cell>
+                        <cell>20</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>31</cell>
+                        <cell>21</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>31</cell>
+                        <cell>21</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <pb n="79" facs="tcp:169911:47"/>IN the firſt Column of of this Table I have put the <hi>New ſtile,</hi> (or the <hi>Roman</hi> Account which is all one) in regard it is 10 Dayes be<g ref="char:EOLhyphen"/>fore ours, and the <hi>Engliſh</hi> Account, or <hi>Old ſtile</hi> in the ſecond Column, and ſo a<g ref="char:EOLhyphen"/>gaine the <hi>New stile</hi> in the third Column, and our <hi>Engliſh stile</hi> in the fourth, and ſo forwards; every other Column which hath the Moneth named at the topp thereof is <hi>New stile,</hi> and thoſe Columns which have not the Moneths writ on the topp, are <hi>Old ſtile;</hi> And by this Table it appeares that the 1. <hi>January New ſtile,</hi> is the 22 <hi>December Old stile,</hi>
+                  <pb n="80" facs="tcp:169911:48"/>The 1. <hi>March New stile</hi> (ex<g ref="char:EOLhyphen"/>cept in leap year) is the 19. of <hi>February Old ſtile,</hi> and ſo of the reſt, which in regard it is (as I conceive) ſo plain<g ref="char:EOLhyphen"/>ly ſet downe, I ſhall for<g ref="char:EOLhyphen"/>beare any farther explana<g ref="char:EOLhyphen"/>tion.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:169911:48"/>
+         </div>
+      </body>
+   </text>
+</TEI>
